@@ -1,0 +1,15 @@
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl002_HelloUser\bin\Debug\net6.0\Exampl002_HelloUser.exe
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl002_HelloUser\bin\Debug\net6.0\Exampl002_HelloUser.deps.json
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl002_HelloUser\bin\Debug\net6.0\Exampl002_HelloUser.runtimeconfig.json
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl002_HelloUser\bin\Debug\net6.0\Exampl002_HelloUser.dll
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl002_HelloUser\bin\Debug\net6.0\Exampl002_HelloUser.pdb
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl002_HelloUser\obj\Debug\net6.0\Exampl002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl002_HelloUser\obj\Debug\net6.0\Exampl002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl002_HelloUser\obj\Debug\net6.0\Exampl002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl002_HelloUser\obj\Debug\net6.0\Exampl002_HelloUser.AssemblyInfo.cs
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl002_HelloUser\obj\Debug\net6.0\Exampl002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl002_HelloUser\obj\Debug\net6.0\Exampl002_HelloUser.dll
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl002_HelloUser\obj\Debug\net6.0\refint\Exampl002_HelloUser.dll
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl002_HelloUser\obj\Debug\net6.0\Exampl002_HelloUser.pdb
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl002_HelloUser\obj\Debug\net6.0\Exampl002_HelloUser.genruntimeconfig.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl002_HelloUser\obj\Debug\net6.0\ref\Exampl002_HelloUser.dll
