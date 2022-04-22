@@ -1,0 +1,15 @@
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl006_Base\bin\Debug\net6.0\Exampl006_Base.exe
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl006_Base\bin\Debug\net6.0\Exampl006_Base.deps.json
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl006_Base\bin\Debug\net6.0\Exampl006_Base.runtimeconfig.json
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl006_Base\bin\Debug\net6.0\Exampl006_Base.dll
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl006_Base\bin\Debug\net6.0\Exampl006_Base.pdb
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl006_Base\obj\Debug\net6.0\Exampl006_Base.csproj.AssemblyReference.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl006_Base\obj\Debug\net6.0\Exampl006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl006_Base\obj\Debug\net6.0\Exampl006_Base.AssemblyInfoInputs.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl006_Base\obj\Debug\net6.0\Exampl006_Base.AssemblyInfo.cs
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl006_Base\obj\Debug\net6.0\Exampl006_Base.csproj.CoreCompileInputs.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl006_Base\obj\Debug\net6.0\Exampl006_Base.dll
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl006_Base\obj\Debug\net6.0\refint\Exampl006_Base.dll
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl006_Base\obj\Debug\net6.0\Exampl006_Base.pdb
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl006_Base\obj\Debug\net6.0\Exampl006_Base.genruntimeconfig.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl006_Base\obj\Debug\net6.0\ref\Exampl006_Base.dll
