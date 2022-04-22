@@ -1,0 +1,15 @@
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl005_ConditionIfEls\bin\Debug\net6.0\Exampl005_ConditionIfEls.exe
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl005_ConditionIfEls\bin\Debug\net6.0\Exampl005_ConditionIfEls.deps.json
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl005_ConditionIfEls\bin\Debug\net6.0\Exampl005_ConditionIfEls.runtimeconfig.json
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl005_ConditionIfEls\bin\Debug\net6.0\Exampl005_ConditionIfEls.dll
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl005_ConditionIfEls\bin\Debug\net6.0\Exampl005_ConditionIfEls.pdb
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl005_ConditionIfEls\obj\Debug\net6.0\Exampl005_ConditionIfEls.csproj.AssemblyReference.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl005_ConditionIfEls\obj\Debug\net6.0\Exampl005_ConditionIfEls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl005_ConditionIfEls\obj\Debug\net6.0\Exampl005_ConditionIfEls.AssemblyInfoInputs.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl005_ConditionIfEls\obj\Debug\net6.0\Exampl005_ConditionIfEls.AssemblyInfo.cs
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl005_ConditionIfEls\obj\Debug\net6.0\Exampl005_ConditionIfEls.csproj.CoreCompileInputs.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl005_ConditionIfEls\obj\Debug\net6.0\Exampl005_ConditionIfEls.dll
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl005_ConditionIfEls\obj\Debug\net6.0\refint\Exampl005_ConditionIfEls.dll
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl005_ConditionIfEls\obj\Debug\net6.0\Exampl005_ConditionIfEls.pdb
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl005_ConditionIfEls\obj\Debug\net6.0\Exampl005_ConditionIfEls.genruntimeconfig.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\Exampls\Exampl005_ConditionIfEls\obj\Debug\net6.0\ref\Exampl005_ConditionIfEls.dll
